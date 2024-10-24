@@ -2,7 +2,6 @@ import './App.css';
 import Home from './Pages/Home';
 import { Route, Routes } from 'react-router-dom';
 import Auth from './Pages/Auth';
-import Admin from './Components/Admin/Games';
 import Games from './Components/Admin/Games';
 import AddGames from './Components/Admin/AddGames';
 import EditGames from './Components/Admin/EditGames';
