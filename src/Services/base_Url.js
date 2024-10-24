@@ -1,0 +1,1 @@
+export const base_Url="https://game-store-backend-2.onrender.com"
