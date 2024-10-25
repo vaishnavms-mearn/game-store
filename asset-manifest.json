@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/game-store/static/css/main.a60439fc.css",
-    "main.js": "/game-store/static/js/main.57658168.js",
+    "main.js": "/game-store/static/js/main.c8466499.js",
     "static/media/fa-solid-900.svg": "/game-store/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/game-store/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
     "static/media/fa-solid-900.ttf": "/game-store/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
@@ -22,10 +22,10 @@
     "static/media/fa-v4compatibility.woff2": "/game-store/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/game-store/index.html",
     "main.a60439fc.css.map": "/game-store/static/css/main.a60439fc.css.map",
-    "main.57658168.js.map": "/game-store/static/js/main.57658168.js.map"
+    "main.c8466499.js.map": "/game-store/static/js/main.c8466499.js.map"
   },
   "entrypoints": [
     "static/css/main.a60439fc.css",
-    "static/js/main.57658168.js"
+    "static/js/main.c8466499.js"
   ]
 }
