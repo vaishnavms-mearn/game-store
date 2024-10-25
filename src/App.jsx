@@ -13,7 +13,7 @@ import Wishlist from './Pages/Wishlist';
 function App() {
   return (
     <div className="App">
-      <Routes>
+      <Routes basename="/tothepoint_login">
         <Route path='/' element={<Home />}></Route>
         <Route path='/login' element={<Auth/>}></Route>
         <Route path='/register' element={<Auth register/>}></Route>
