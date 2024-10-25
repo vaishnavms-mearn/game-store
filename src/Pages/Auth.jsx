@@ -8,12 +8,8 @@ import {
   MDBNavbarBrand
 }
   from 'mdb-react-ui-kit';
-import img from '../Assets/images/re.jpg'
 import logo from '../Assets/images/gamepad.png'
-import spi from '../Assets/images/spi.jpg'
-import cyber from '../Assets/images/stray.jpg'
 import Button from 'react-bootstrap/Button';
-import cyberlogo from '../Assets/images/cyberpunk-logo.png'
 import { Link, useNavigate } from 'react-router-dom';
 import { loginAPI, registerAPI } from '../Services/allAPI';
 import {  ToastContainer, toast } from 'react-toastify';
